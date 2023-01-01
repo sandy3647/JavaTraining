@@ -21,6 +21,10 @@ public class VariableDemo {
 		
 		System.out.println("++ Values of int K1" + k1);
 		
+		int num = 5_00_00_000; // we can use _ for the readablity purpose
+		
+		System.out.println("The number is : " + num);
+		
 
 	}
 
